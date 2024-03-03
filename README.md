@@ -1,7 +1,44 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&text=TaekyeongOh&animation=fadeIn&fontAlign=70&fontAlignY=55)
+
+## <div align="center">🔭Experience🔭</div>
+<div align=center>
+    
+🔒Department of Convergence Security Engineering at Sungshin W. Univ. 24'   
+    
+</div>
+
+## <div align="center">⚒️Tech Stack⚒️</div>
+<div align=center>
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+</div>
+
+## <div align="center">📱Me📱</div>
+<div align=center>
+<!--    
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) <a href="https://instagram.com/t_aekyeong">
+-->
+    <img 
+        src="http://img.shields.io/badge/-Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/t_aekyeong/"
+        style="height : auto; margin-left : 20px; margin-right : 20px;"/>
+</a> 
+<!--
+<a href="https://velog.io/@seoyoung">
+    <img 
+        src="http://img.shields.io/badge/-Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@seoyoung"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+-->
+</div>
+
 
 <!--
-**TaekyeongOh/TaekyeongOh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seoyoung&theme=tokyonight&show_icons=true)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+-->
+
+<!--
+**SeoyoungOhMe/SeoyoungOhMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
