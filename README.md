@@ -4,6 +4,7 @@
 <div align=center>
     
 🔒Department of Convergence Security Engineering at Sungshin W. Univ. 24'   
+🖥️ 멋쟁이 사자처럼 at Sungshin W. Univ. `2024.01.01 - 2024.12.31'
     
 </div>
 
@@ -25,6 +26,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=yellow" />
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />
+  ![C++](https://img.shields.io/badge/C++-yellow.svg?style=for-the-badge&logo=cplusplus&logoColor=white) 
 </div>
 <br />
 
