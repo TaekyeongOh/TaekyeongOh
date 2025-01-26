@@ -8,11 +8,25 @@
 </div>
 
 ## <div align="center">⚒️Tech Stack⚒️</div>
-<div align=center>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
+<div align="center">
+  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
 </div>
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/sass-ffffff.svg?style=for-the-badge&logo=sass&logoColor=CC6699" />
+</div>
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />
+</div>
+<br />
 
 ## <div align="center">📱Me📱</div>
 <div align=center>
