@@ -5,6 +5,7 @@
     
 🔒Department of Convergence Security Engineering at Sungshin W. Univ. 24'   
 🖥️ 멋쟁이 사자처럼 at Sungshin W. Univ. `2024.01.01 - 2024.12.31`
+💡S.C.C (Sungshin Computer Club) `2024.03.02 - 2024.12.31`
     
 </div>
 
