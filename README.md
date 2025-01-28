@@ -39,6 +39,9 @@
     <img 
         src="http://img.shields.io/badge/-Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/t_aekyeong/"
         style="height : auto; margin-left : 20px; margin-right : 20px;"/>
+    <a href="https://velog.io/@tae_me/posts">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  </a>
 </a> 
 <!--
 <a href="https://velog.io/@seoyoung">
