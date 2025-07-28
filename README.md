@@ -35,7 +35,7 @@
 ## <div align="center">🏆Awards🏆</div>
 <div align=center>
     
-🏅ICISTS GRAFFITI 2025: AI StartUp 장려상 `2024.03.15~2024.03.17` <br />
+🏅ICISTS GRAFFITI 2025: AI StartUp 장려상 `2025.07.22~2025.07.25` <br />
 
 </div>
 
