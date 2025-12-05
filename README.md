@@ -50,8 +50,8 @@
 ## <div align="center">🏆Awards🏆</div>
 <div align=center>
     
-🏅 ICISTS GRAFFITI 2025: AI StartUp 장려상 `2025.07.22~2025.07.25` <br />
-🥈 NIA·과학기술정보통신부 주관, 2025 데이터 크리에이터 캠프 — 최우수상 (NIA 원장상)
+🏅 ICISTS - GRAFFITI 2025: AI StartUp - 장려상 `2025.07.22~2025.07.25` <br />
+🥈 과학기술정보통신부·NIA - 2025 데이터 크리에이터 캠프 - 최우수상 (NIA 원장상)
 `2025.08.13 ~ 2025.11.29` <br />
 
 </div>
