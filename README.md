@@ -47,13 +47,14 @@
     
 <br />
 
-## <div align="center">🏆Awards🏆</div>
+## <div align="center">🏆Awards & Experiences🏆</div>
 <div align=center>
     
 🏅 ICISTS - GRAFFITI 2025: AI StartUp - 장려상 `2025.07.22~2025.07.25` <br />
 🥈 과학기술정보통신부·NIA - 2025 데이터 크리에이터 캠프 - 최우수상 (NIA 원장상)
 `2025.08.13 ~ 2025.11.29` <br />
-🏅 성신여대 융합보안공학과 - 2026 융합보안 아이디어해커톤 - 장려상 `2025.09.18~2025.09.19` <br />
+🏆 성신여대 융합보안공학과 - 2026 융합보안 아이디어해커톤 - 장려상 `2025.09.18~2025.09.19` <br />
+📝 한국여성과학기술인육성재단 WISET Engineering Research Team (WISET) - 의료 AI 에이전트의 오류 전파 탐지 및 신뢰성 검증 프레임워크 개발 `2026.04 - 2026.10`  <br />
 
 </div>
 
